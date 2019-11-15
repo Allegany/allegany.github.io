@@ -261,15 +261,21 @@
  * Home
  */
 
- .home {
-   display:flex;
-   justify-content: space-between;
+.main-header {
+  height: 600px;
+  background: $brand-color;
+}
 
-   .home-column {
-     width: 70%;
-   }
+.home {
+  display:flex;
+  justify-content: space-between;
 
-   .side-bar {
-     width: 28%;
-   }
- }
+  .home-column {
+    width: 70%;
+  }
+
+  .side-bar {
+    width: 28%;
+  }
+}
+
