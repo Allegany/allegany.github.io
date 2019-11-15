@@ -21,7 +21,7 @@
 title: Christoffer Granstedt's 1DV022 Blog
 email: cg222sp@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog by Christoffer Granstedt that will be used for publish assignments gotten from Linnéuniversitet and the course 1DV022.
+  A blog by Christoffer Granstedt that will be used for publish assignments gotten from Linneaus University and the course 1DV022.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cgranstedt
