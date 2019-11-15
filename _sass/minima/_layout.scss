@@ -255,3 +255,21 @@
     }
   }
 }
+
+
+/**
+ * Home
+ */
+
+ .home {
+   display:flex;
+   justify-content: space-between;
+
+   .home-column {
+     width: 70%;
+   }
+
+   .side-bar {
+     width: 28%;
+   }
+ }
