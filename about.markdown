@@ -2,9 +2,10 @@
 layout: page
 title: About Me
 permalink: /about/
+image: /assets/img/christoffer.png
 ---
 
-Hi! I'm a 34 year old living in Örebro in Sweden and I read "Web programming" in Linneaus University.
+Hi! I'm a 34 year old man living in Örebro in Sweden and I'm studying "Web programming" in Linneaus University.
 I live together with my wife and my son who soon is two years old and we live in a house just outside the town.
 
 I have worked more than 13 years of my life with logistics in the waste industry but quite recently decided to take a big jump
