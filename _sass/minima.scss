@@ -12,7 +12,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $secondary-text-color: rgb(240, 240, 240) !default;
-$background-color: #fdfdfd !default;
+$background-color: rgb(248, 248, 248) !default;
 $secondary-bg-color: rgb(70, 70, 70) !default;
 $brand-color:      #3bc496 !default;
 
@@ -45,12 +45,12 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
-@mixin headings($size-ratio) {
+@mixin headings($size-ratio, $line-height-ratio) {
   @include relative-font-size($size-ratio);
   color: $secondary-text-color;
   font-weight: 200;
   text-align: center;
-  line-height: $base-line-height / 1.8;
+  line-height: $line-height-ratio
 }
 
 // Import partials.

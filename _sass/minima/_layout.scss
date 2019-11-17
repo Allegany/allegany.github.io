@@ -18,6 +18,9 @@
   margin-bottom: 0;
   float: left;
 
+  @include media-query($on-palm) {
+    @include relative-font-size(1.1);
+  }
   &,
   &:visited {
     color: $secondary-text-color;
@@ -57,9 +60,9 @@
 
   @include media-query($on-palm) {
     position: absolute;
-    top: 9px;
+    top: 30px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
+    background-color: $brand-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
@@ -211,6 +214,9 @@ article.post {
 
   > li {
     margin-bottom: $spacing-unit;
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
   }
 }
 
@@ -283,19 +289,19 @@ article.post {
   background-position: center;
 
   h1 {
-    @include headings(5);
+    @include headings(5, 0.8);
 
     @include media-query($on-palm) {
-      @include headings(3);
+      @include headings(3, 0.8);
     }
   }
 
   h2 {
     padding-top: $spacing-unit * 5;
-    @include headings(3);
+    @include headings(3.5, 1);
 
     @include media-query($on-palm) {
-      @include headings(2);
+      @include headings(2, 1);
     }
   }
 }
