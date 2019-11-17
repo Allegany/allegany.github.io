@@ -270,8 +270,9 @@
  */
 
 .main-header {
-  min-height: 600px;
-  background: $brand-color;
+  min-height: 500px;
+/*   background: $brand-color; */
+  background: url(../../assets/img/background_main.png);
 
   h1 {
     @include headings(5)
