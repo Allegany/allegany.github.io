@@ -2,6 +2,7 @@
 layout: post
 title:  "CSS Preprocessor reflections and more"
 categories: Reflections
+excerpt_separator: <!--more-->
 ---
 
 Blog post
@@ -18,7 +19,8 @@ What type of projects are they suitable for?
 What is robots.txt and how have you configure it for your site?
 
 What is humans.txt and how have you configure it for your site?
-
+<!--more-->
 How did you implements comments to blog posts
 
 What is Open Graph and how do you make use of it?
+

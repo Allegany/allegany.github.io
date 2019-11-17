@@ -273,6 +273,7 @@
   min-height: 500px;
 /*   background: $brand-color; */
   background: url(../../assets/img/background_main.png);
+  background-position: center;
 
   h1 {
     @include headings(5)
