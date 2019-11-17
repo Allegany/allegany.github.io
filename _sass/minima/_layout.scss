@@ -298,3 +298,18 @@
   }
 }
 
+
+/**
+ * Side-Bar
+ */
+.side-bar {
+  ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+    li {
+      margin-bottom: 15px;
+    }
+  }
+}
