@@ -22,11 +22,19 @@ title: Christoffer Granstedt's 1DV022 Blog
 email: cg222sp@student.lnu.se
 author: Christoffer Granstedt
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog by Christoffer Granstedt that will be used for publish assignments gotten from Linneaus University and the course 1DV022.
+  A blog by Christoffer Granstedt that will be used for publish assignments gotten from the course 1DV022 at Linneaus University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cgranstedt
 github_username:  Allegany
+type: website
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: christoffergranstedtblog
+
 
 # Build settings
 theme: minima

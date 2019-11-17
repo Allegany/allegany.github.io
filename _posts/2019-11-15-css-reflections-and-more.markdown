@@ -3,7 +3,7 @@ layout: post
 title:  "CSS Preprocessor reflections and more"
 categories: Reflections
 excerpt_separator: <!--more-->
-image: /assets/img/programming.png
+image: /assets/img/programming.jpg
 ---
 
 Blog post
