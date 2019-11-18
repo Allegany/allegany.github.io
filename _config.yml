@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog by Christoffer Granstedt that will be used for publish assignments gotten from the course 1DV022 at Linneaus University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://allegany.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cgranstedt
 github_username:  Allegany
 type: website
 
@@ -34,9 +33,16 @@ disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: christoffergranstedtblog
+
 twitter:
     username: cgranstedt
     card: summary
+
+default: 
+    -scope:
+        path: ""
+    values:
+        image: /assets/img/main.jpg
 
 # Build settings
 theme: minima
