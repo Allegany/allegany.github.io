@@ -4,6 +4,7 @@ title:  "My first post"
 categories: Uncategorized
 excerpt_separator: <!--more-->
 image: /assets/img/christoffer.png
+description: "Just my first post"
 ---
 
 Welcome to Christoffer Granstedt's blog that I created in the course 1DV022 taken at Linneaus University. 
