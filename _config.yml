@@ -24,7 +24,7 @@ author: Christoffer Granstedt
 description: >- # this means to ignore newlines until "baseurl:"
   A blog by Christoffer Granstedt that will be used for publish assignments gotten from the course 1DV022 at Linneaus University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://allegany.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cgranstedt
 github_username:  Allegany
 type: website
