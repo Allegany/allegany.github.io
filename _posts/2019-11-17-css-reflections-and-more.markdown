@@ -52,7 +52,7 @@ Location: Örebro, Sweden
 /* THANKS */
 Photos: Unsplash (www.unsplash.com)
 
-/* SITE */             
+/* SITE */            
 Last update: 2019-11-17
 Language: English   
 Standards: HTML5, CSS3, Sass, JavaScript  
