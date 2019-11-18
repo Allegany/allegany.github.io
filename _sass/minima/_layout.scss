@@ -217,6 +217,14 @@ article.post {
     background: white;
     border-radius: 15px;
     padding: 10px;
+
+    h4 {
+      @include relative-font-size(1.25);
+
+      @include media-query($on-laptop) {
+        @include relative-font-size(1.125);
+      }
+    }
   }
 }
 
