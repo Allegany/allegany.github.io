@@ -36,6 +36,7 @@ disqus:
     shortname: christoffergranstedtblog
 twitter:
     username: cgranstedt
+    card: summary
 
 # Build settings
 theme: minima

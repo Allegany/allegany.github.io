@@ -69,5 +69,6 @@ The Open Graph Protocol was introduced by Facebook as a way for other websites t
 as other objects. It is today used by all major social media platforms and is a way for the developer to decide what type of content that will show of up
 if a page is linked to in social media. The developer can for example decide the title, an image a description and more.
 
-Since Minima comes with a plugin called jekyll-seo-tag already predefined where you can either set this attributes in general in the config.yml or in the front matter
-of each specific page or post I have defined at least the title, type, image and url in either the general config file or specific page file.
+Since Minima comes with a plugin called jekyll-seo-tag already predefined I used this tool. I added the plugin in the gemfile and config.tml.
+It helps automatically with some tags but you can also set the attributes in general in the config.yml or in the front matter of each specific page or post 
+I have defined at least the title, type, image and url in either the general config file or specific page file.
