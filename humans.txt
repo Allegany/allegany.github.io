@@ -1,14 +1,15 @@
 /* TEAM */
 Web designer: Christoffer Granstedt
 Mail: cg222sp@student.lnu.se
-Twitter: cgranstedt
+Github: Allegany
 Location: Örebro, Sweden
 
 /* THANKS */
 Photos: Unsplash (www.unsplash.com)
 
 /* SITE */             
-Last update: 2019-11-17            
-Standards: HTML5, CSS3, SASS      
+Last update: 2019-11-17
+Language: English   
+Standards: HTML5, CSS3, SASS, JavaScript    
 Components: Jekyll              
-Software: Visual Studio Code, Docker
+Software: Visual Studio Code, Docker, Adobe Illustrator CC / Adobe Photoshop CC
