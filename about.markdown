@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+type: Article
 permalink: /about/
 image: /assets/img/christoffer.png
 ---

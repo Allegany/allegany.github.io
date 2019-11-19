@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My first post"
+type: article
 categories: Uncategorized
 excerpt_separator: <!--more-->
 image: /assets/img/christoffer.png

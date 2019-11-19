@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "CSS Preprocessor reflections and SSG"
+type: article
 categories: Reflections
 excerpt_separator: <!--more-->
 image: /assets/img/programming.jpg

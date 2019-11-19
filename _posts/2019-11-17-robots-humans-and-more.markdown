@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Robots, Humans and more"
+type: article
 categories: Reflections
 excerpt_separator: <!--more-->
 image: /assets/img/robots.jpg
