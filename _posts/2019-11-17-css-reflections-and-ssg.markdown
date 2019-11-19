@@ -5,6 +5,7 @@ type: article
 categories: Reflections
 excerpt_separator: <!--more-->
 image: /assets/img/programming.jpg
+description: "What my views on CSS preprocessors and Static Site Generators are".
 ---
 #### What do you think of pre-compiling your CSS?
 Of the CSS preprocessors I have used Sass and the sCSS syntax and I really like it. Even if vanilla CSS adding more and more features I think this syntax is really easy on the eye.

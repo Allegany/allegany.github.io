@@ -5,6 +5,7 @@ type: article
 categories: Reflections
 excerpt_separator: <!--more-->
 image: /assets/img/robots.jpg
+description: "What my views on robots.txt, humans.txt, disqus and open graph are."
 ---
 #### What is robots.txt and how have you configure it for your site?
 Robots.txt is just a simple text file that should be located in root of your project. Web Robots that is used by for example search engines to index the web content
