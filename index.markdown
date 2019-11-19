@@ -6,5 +6,4 @@ layout: home
 image: /assets/img/main.jpg
 type: website
 description: "A blog about my assignments gotten in the course IDV022 at Linneaus University."
-title: Christoffer Granstedt's 1DV022 Blog
 ---
